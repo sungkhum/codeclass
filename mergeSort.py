@@ -7,7 +7,7 @@ def mergeSort(list):
     """This recursively splits a list down
     to seperate lists with only one number each
     to prepare the list to be sorted in assending
-    order by helper function.
+    order by our helper function.
     """
     if len(list) > 1:
         half = len(list) // 2
