@@ -20,7 +20,7 @@ def mergeSort(list):
 
 def mergeHelper(listA, listB):
     """This is a helper function for mergeSort that 
-    sorts and combines two lists
+    sorts and combines two lists recursively.
     """
     mergedList = []
     if listA == [] and listB == []:
