@@ -19,6 +19,9 @@ def mergeSort(list):
 		return list
 
 def mergeHelper(listA, listB):
+	"""This is a helper function for mergeSort that 
+	sorts and combines two lists
+	"""
 	mergedList = []
 	if listA == [] and listB == []:
 		return mergedList
@@ -40,5 +43,5 @@ def mergeHelper(listA, listB):
 	return mergedList
 
 
-print(mergeSort([1,3,4,5,6,7,3,5,5]))
+print(mergeSort([1,11,4,5,6,7,3,10,5]))
 
