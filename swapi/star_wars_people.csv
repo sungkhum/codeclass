@@ -1,0 +1,83 @@
+id,name,height,mass,eye color
+1,Luke Skywalker,172,77,blue
+2,C-3PO,167,75,yellow
+3,R2-D2,96,32,red
+4,Darth Vader,202,136,yellow
+5,Leia Organa,150,49,brown
+6,Owen Lars,178,120,blue
+7,Beru Whitesun lars,165,75,blue
+8,R5-D4,97,32,red
+9,Biggs Darklighter,183,84,brown
+10,Obi-Wan Kenobi,182,77,blue-gray
+11,Anakin Skywalker,188,84,blue
+12,Wilhuff Tarkin,180,unknown,blue
+13,Chewbacca,228,112,blue
+14,Han Solo,180,80,brown
+15,Greedo,173,74,black
+16,Jabba Desilijic Tiure,175,"1,358",orange
+18,Wedge Antilles,170,77,hazel
+19,Jek Tono Porkins,180,110,blue
+20,Yoda,66,17,brown
+21,Palpatine,170,75,yellow
+22,Boba Fett,183,78.2,brown
+23,IG-88,200,140,red
+24,Bossk,190,113,red
+25,Lando Calrissian,177,79,brown
+26,Lobot,175,79,blue
+27,Ackbar,180,83,orange
+28,Mon Mothma,150,unknown,blue
+29,Arvel Crynyd,unknown,unknown,brown
+30,Wicket Systri Warrick,88,20,brown
+31,Nien Nunb,160,68,black
+32,Qui-Gon Jinn,193,89,blue
+33,Nute Gunray,191,90,red
+34,Finis Valorum,170,unknown,blue
+35,Padmé Amidala,185,45,brown
+36,Jar Jar Binks,196,66,orange
+37,Roos Tarpals,224,82,orange
+38,Rugor Nass,206,unknown,orange
+39,Ric Olié,183,unknown,blue
+40,Watto,137,unknown,yellow
+41,Sebulba,112,40,orange
+42,Quarsh Panaka,183,unknown,brown
+43,Shmi Skywalker,163,unknown,brown
+44,Darth Maul,175,80,yellow
+45,Bib Fortuna,180,unknown,pink
+46,Ayla Secura,178,55,hazel
+47,Ratts Tyerel,79,15,unknown
+48,Dud Bolt,94,45,yellow
+49,Gasgano,122,unknown,black
+50,Ben Quadinaros,163,65,orange
+51,Mace Windu,188,84,brown
+52,Ki-Adi-Mundi,198,82,yellow
+53,Kit Fisto,196,87,black
+54,Eeth Koth,171,unknown,brown
+55,Adi Gallia,184,50,blue
+56,Saesee Tiin,188,unknown,orange
+57,Yarael Poof,264,unknown,yellow
+58,Plo Koon,188,80,black
+59,Mas Amedda,196,unknown,blue
+60,Gregar Typho,185,85,brown
+61,Cordé,157,unknown,brown
+62,Cliegg Lars,183,unknown,blue
+63,Poggle the Lesser,183,80,yellow
+64,Luminara Unduli,170,56.2,blue
+65,Barriss Offee,166,50,blue
+66,Dormé,165,unknown,brown
+67,Dooku,193,80,brown
+68,Bail Prestor Organa,191,unknown,brown
+69,Jango Fett,183,79,brown
+70,Zam Wesell,168,55,yellow
+71,Dexter Jettster,198,102,yellow
+72,Lama Su,229,88,black
+73,Taun We,213,unknown,black
+74,Jocasta Nu,167,unknown,blue
+75,R4-P17,96,unknown,"red, blue"
+76,Wat Tambor,193,48,unknown
+77,San Hill,191,unknown,gold
+78,Shaak Ti,178,57,black
+79,Grievous,216,159,"green, yellow"
+80,Tarfful,234,136,blue
+81,Raymus Antilles,188,79,brown
+82,Sly Moore,178,48,white
+83,Tion Medon,206,80,black
